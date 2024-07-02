@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "889196459218",
+    "project_id": "eventlia-bd59b",
+    "storage_bucket": "eventlia-bd59b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889196459218:android:e952c3bd17f356ee04e90b",
+        "android_client_info": {
+          "package_name": "com.example.admineventlia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHak1p5HPEkwcNDUdNsy1Wg-00EuhMuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889196459218:android:31b5d533313f4b0404e90b",
+        "android_client_info": {
+          "package_name": "com.example.eventlia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHak1p5HPEkwcNDUdNsy1Wg-00EuhMuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889196459218:android:2b240140d8cba90404e90b",
+        "android_client_info": {
+          "package_name": "com.example.eventliaadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHak1p5HPEkwcNDUdNsy1Wg-00EuhMuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
